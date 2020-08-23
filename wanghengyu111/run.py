@@ -1,7 +1,7 @@
 
 
 for i in range(0,9):
-print(i)
+    print(i)
 
 print("打印完毕")
 
