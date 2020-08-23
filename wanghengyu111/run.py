@@ -1,2 +1,8 @@
 
-print("老铁，双击666！")
+
+for i in range(0,9):
+print(i)
+
+print("打印完毕")
+
+
